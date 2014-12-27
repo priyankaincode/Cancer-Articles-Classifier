@@ -1,7 +1,7 @@
 
 Instructions:
 
-I included the same files I generated and used to test the program (Testing.txt, Training.txt, and the two prediction files) so these can be used if you want. However, if you want to do it all yourself, you can begin by running the TrainingAndTesting program. Running SplitDocs.java takes all the docs and randomly removes 1/3 of them to put into a testing set, leaving the rest as a training set. Then, you can open CM Homework 3 to the Baseline.java class and run that to create a prediction_file_baseline.txt file, which contains the baseline predictions. You can evaluate that in Evaluator.java, which will prompt you for a file name (leave off the file type .txt, just type in "prediction_file_baseline"). Then you can run Classifier.java, which will then create a prediction_file.txt file, which you can run through Evaluator.java.
+I included the same files I generated and used to test the program (Testing.txt, Training.txt, and the two prediction files) so these can be used if you want. However, if you want to do it all yourself, you can begin by running the TrainingAndTesting program. Running SplitDocs.java takes all the docs and randomly removes 1/3 of them to put into a testing set, leaving the rest as a training set. Then, you can open the Baseline.java class and run that to create a prediction_file_baseline.txt file, which contains the baseline predictions. You can then evaluate that in Evaluator.java, which will prompt you for a file name (leave off the file type .txt, just type in "prediction_file_baseline"). Then you can run Classifier.java, which will then create a prediction_file.txt file, which you can run through Evaluator.java.
 
 Each program can be run in an IDE (I used Eclipse) or console.
 
