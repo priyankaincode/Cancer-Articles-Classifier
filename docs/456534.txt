@@ -1,0 +1,70 @@
+TITLE	The classroom 'cancer risk' of wi-fi internet
+
+by DANIEL MARTIN
+
+Last updated at 00:01 21 May 2007
+
+Britain's top health watchdog has called for an inquiry into the use of wireless Internet networks in schools because of concerns they could be exposing children to the risk of cancer.
+
+The demand came after it was revealed that classroom "wi-fi" networks give off three times as much radiation as a typical mobile phone mast.
+
+Guidelines from the Health Protection Agency already state that masts should not be sited near schools because of a possible cancer link and other health risks.
+
+Now its chairman, Sir William Stewart, is seeking a review of the health effects of wi-fi networks amid fears they could pose even greater dangers.
+
+Wi-fi works by transmitting information via radio waves from a telephone line to a computer and back.
+
+Networks have been installed in nearly 50 per cent of primary schools and 70 per cent of secondary schools giving millions of children access to computers.
+
+Researchers for the BBC's Panorama programme visited a comprehensive in Norwich and measured the strength of a radiation signal from a classroom wi-fi laptop.
+
+They found that the maximum signal strength was three times higher than that of a typical mobile phone mast.
+
+Scientists believe children may be more vulnerable to radio-frequency radiation emissions than adults because their skulls are still growing and are thinner.
+
+This raises questions over the safety of children bent over computers being exposed to radiation at very close quarters.
+
+But Panorama spoke to 50 schools and only one had been alerted to possible health risks. Some had been categorically told that there was no danger.
+
+In response to the findings, Sir William said: "I believe that there is a need for a review of wi-fi and other areas. I think it's timely for it to be done now."
+
+In the past 18 months 1.6million wi-fi connections have been set up in the UK. This means children using computers at home could also be at risk.
+
+The World Health Organisation, backed by the Government, says there are "no adverse health effects from low-level, long-term exposure" to wi-fi radiation.
+
+But Sir William said there was growing evidence of possible harm from radio-frequency radiation.
+
+He explained: "There may be changes, for example in cognitive function.
+
+"There were some indications that there may be cancer inductions. There was some molecular biology changes within the cell."
+
+Philip Parkin, general secretary of the Professional Association of Teachers, said: "I am asking for schools to consider very seriously whether they should be installing wi-fi networks now and this will make them think twice or three times before they do it."
+
+The levels of radiation Panorama found were 600 times lower than those deemed dangerous by the Government, which bases its data on radiation safety limits provided by a group of scientists called ICNIRP.
+
+But it does not take the biological effects of radio-frequency radiation into account, basing exposure limits solely on a "thermal effect".
+
+This means radiation only counts if it is so strong it causes a heat effect.
+
+Last month Professor Lawrie Challis, chairman of the government- sponsored mobile telecommunications and health research programme, warned of the dangers of children using wi-fi-enabled laptops on their knees.
+
+He said the wi-fi transmitter is only 2cm from the child?s bodies ? putting them at greater risk than if they were using a normal computer when the transmitter would be in the PC's tower.
+
+Yesterday he said: "Wi-fi exposures are usually very small and seem unlikely to pose any risk to health ? the transmitters are low power and some distance from the body.
+
+"They can be near to the body however when a laptop is on one?s lap and my own view is that just as we encourage young children not to use mobile phones we should also encourage them to use their laptops on a table rather than their lap if they are going online for a long time."
+
+Professor Malcolm Sperrin, director of medical physics at the Royal Berkshire Hospital, cast doubt on Panorama's findings.
+
+He said wi-fi radiation was about 100,000 times less intense than that emitted by domestic microwave ovens.
+
+He added: "Research is still proceeding in this area at leading centres in many countries but evidence points to wi-fi transmissions being well below any likely threshold for human effects."
+
+A Department of Health spokesman said: "Current evidence does not suggest that there is a health problem with wi-fi but we look to the Health Protection Agency to advise Government on these issues."
+
+ We are no longer accepting comments on this article.
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday  and  Metro Media Group
+

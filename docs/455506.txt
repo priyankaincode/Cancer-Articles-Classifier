@@ -1,0 +1,58 @@
+TITLE	The amazing strip-search scanner
+
+Last updated at 11:47 17 May 2007
+
+Besides being a little worrying, it's hard not to smirk just a tad when you see someone being marched off to be strip searched at the airport. But behind the smirk there is usually a sense of relief - that it is them and not you.
+
+Yet soon all passengers could be strip searched, at least electronically, thanks to a terahertz scanner, a new device which sees through clothes.
+
+Terahertz radiation comprises electromagnetic waves that can pass through objects, sniff out explosives and detect cancers, all without any health risk.
+
+Also known as T-rays, they lie between radio waves and infrared light on the radiation spectrum. Lacking the dangerous ionising energy of X-rays and gamma rays, they are believed to be safe.
+
+Scanning a person or an item with T-rays, you can make out not just their shapes, as with X-rays, but also their chemical composition based on these "spectral signatures".
+
+With this you can detect explosives, plastic weapons and drugs from tens of metres away. Plus T-rays have a host of other potential uses, in cancer treatment, astronomy, communications and pharmaceuticals.
+
+For security, T-rays are used passively. A camera-like device picks up frequencies reflected off different objects to scan an area for explosives or other materials.
+
+If more detail is required, as in medical use, a machine resembling an ultrasound scanner generates T-rays by firing very high frequency laser pulses through crystals.
+
+The T-rays are shone on to the patient and the reflected rays are analysed to see which frequencies have been absorbed.
+
+Security
+
+The reality, despite the hype, shouldn't be gangs of ogling security staff. It is only the lower wavelengths of the terahertz band, known as millimetre waves, that actually allow images of anatomical contours to be produced.
+
+Identifying spectral signatures, such as those of weapons, requires higher frequencies which would not show body parts. Even if lower frequencies are used, they needn't produce an actual image of the person. The technology should simply sound an alarm if suspect material is detected.
+
+Health
+
+Another potential application of T-rays is in health. Early evidence suggests they can detect some cancer cells, and because T-ray radiation is non-ionising it should be a lot safer than an X-ray. The one problem is T-rays penetrate skin to a depth of only about 4 millimetres: fine for detecting skin cancers but not those deeper down.
+
+But now researchers have found T-rays can go deeper in breasts because fatty tissue is more transmissive, up to depths of 2 centimetres. A prototype set for preclinical trials this year is designed to ensure that no cancerous tissue is missed during surgical excisions.
+
+T-rays could help also solve the mystery of how the universe was formed. In July 2008 the European Space Agency will launch the Herschel Space Observator (HSO) which, with a 3.5m-wide lens, will be the largest space telescope ever launched.
+
+The HSO will be the first to observe skies using the terahertz range, allowing scientists to peer further into our universe than ever before, and to see large parts previously unobserved that are simply too cold to radiate wavelengths elsewhere in the spectrum.
+
+Communications
+
+In the long term it is feasible that T-rays could also be used in homes and offices. Having a much higher frequency than microwaves, there is huge potential for them to be used to create wireless networks.
+
+The resultant downloads speeds would be like current Wi-Fi broadband on steroids! The challenge is that because T-rays exist on the cusp between radiowaves and optical light they are not only difficult to generate but also very hard to manipulate.
+
+The latter is crucial if data is to be encoded in the waves for communication purposes. But in recent months several research groups believe they have found a solution by using novel materials known as meta-materials.
+
+It is early days, however, and such technology is not likely to become available for at least a decade.
+
+There are also applications in all sorts of industries, such as pharmaceuticals, for quality control.
+
+Because T-rays can see through objects they can check, for example, that a tablet's sugar coating is the right thickness. The commercial viability of this use is currently being tested.
+
+ We are no longer accepting comments on this article.
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday  and  Metro Media Group
+

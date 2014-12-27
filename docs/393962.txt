@@ -1,0 +1,126 @@
+TITLE	Is your x-ray safe?
+
+By ANGELA EPSTEIN, Daily Mail
+
+Last updated at 12:22 04 July 2006
+
+Here, ANGELA EPSTEIN looks at the most common forms of scan work, assessing their dangers:
+
+STANDARD X-RAY
+
+USE: simple two-dimensional image of dense areas of the body such as bones, chest and teeth. They can show major changes in tissue ? such as a tumour in the lungs or an enlarged heart ? but details are blurred. They cannot specify if, for example, a shadow on the lung is actually a tumour.
+
+HOW IT WORKS: An X-ray is a wave of electromagnetic radiation that can penetrate soft tissues. They are taken like large-scale photographs, producing a 2D image, portrayed on plates similar to camera film negatives.
+
+X-rays are measured in millisieverts (mSv). A standard X-ray produces less than 1mSv.
+
+Everyone in the UK receives 2.6 to 3mSv of radiation a year. Some 85 per cent of this exposure is from natural radiation (e.g. from travelling in a plane in the upper atmosphere). Places such as Cornwall are high in naturally occurring radioactive radon gas in the soil, so people living there may receive more radiation than the national average.
+
+THE RISKS: The power of X-rays is defined by how sensitive a part of the body is to radiation, as well as the amount of radiation they produce. So a small X-ray to the testicles is more risky than a larger X-ray to the chest.
+
+Pregnant women who have dental X-rays are three times more likely to give birth to an underweight full-term baby, according to research from Washington University School of Dentistry. To protect themselves, women should wear a lead apron.
+
+Lead protectors are also used when X-raying children to shield their developing reproductive organs from radiation.
+
+Dr Gill Markham, vice president of the Royal College of Radiologists, says the radiation levels produced by most flat X-rays, such as chest X-rays, is as low as everyday radiation.
+
+MAMMOGRAM
+
+USE: To detect early breast cancers that can't be felt by physical examination. The NHS Breast Screening programme, offering women aged over 50 a mammogram every three years, saves 1,400 lives every year in England alone.
+
+HOW IT WORKS: The patient strips to the waist and stands in front of a mammogram machine.
+
+Each breast is positioned, in turn, between two X-ray plates so that it is compressed and flattened. The compression effect spreads the breast tissue to give a picture which is produced on a digital screen.
+
+Mammograms produce about 1 mSv of radiation.
+
+THE RISKS: A study by the International Agency for Research on Cancer in Lyon, France, last week suggested the low-dose ionising radiation emitted by mammogram X-rays may raise the risk of breast cancer in women with a genetic predisposition to the disease.
+
+A study of 1,600 women carrying genes BRCA1 and BRCA2 found they were 54 per cent more likely to
+
+suffer the disease if they had ever had a mammogram.
+
+For women under 20 given routine mammograms, the risk of developing breast cancer before they are 40 more than doubled. However, Dr Markham notes that women with the established breast cancer gene already have an 85 per cent risk of having the disease in their lifetime.
+
+All women under 40 who have mammograms are at greater risk as younger women have fatty glandular tissue and their breasts produce a denser image on screen, so more radiation is needed to penetrate this area to see the breast tissue.
+
+As breast cancer is rarer at this age, the NHS screening programme does not call women under 50, to reduce their exposure to radiation.
+
+CT SCAN
+
+USE: Detailed examination of any part of the body from soft tissues to organs and bones. Gives a more precise image than an X-ray. Used on brain to look at stroke damage.
+
+HOW IT WORKS: A CT (also known as CAT) scan stands for computerised tomography. A series of X-rays are taken at different angles.
+
+Unlike a flat X-ray which gives a 2D image, a CT can be moved up and down the body to produce an in-depth cross-sectional image.
+
+They produce around 5mSv, although Dr David Burling, consultant gastro-intestinal radiologist at St Mark's Hospital, London, says the latest technology is reducing this to around 2mSv, twice the amount of a flat X-ray.
+
+THE RISKS: Commercial medical organi-sations are marketing whole body CT scans as a way of catching cancer before symptoms appear.
+
+However, Dr Markham says, as different parts of the body require different doses of radiation to produce a good CT scan, a uniform scan could expose some body parts to unnecessarily high doses.
+
+Someone having a one-off full-body CT screening has an estimated cancer death risk of one in 1,200. An annual full-body CT scan for 30 years increases this risk to almost one in 50, according to research in the journal Radiology.
+
+Another study, carried out at the Karolinska Institute in Stockholm, has suggested that CT scans to an infant's head could harm the brain's development in later life.
+
+MRI SCAN
+
+USE: Fine detail of soft tissue, tendons, nerves and muscles. Good for images of the brain and circulatory system. Often used to provide additional information after a CT scan has identified a problem.
+
+Can give a whole body view in one go. No radiation is produced, so it is the preferred way to scan children.
+
+HOW IT WORKS: An MRI (magnetic resonance imaging) scan produces a magnetic field to make the body's cells vibrate. The cells give off electrical signals which are interpreted by a computer and turned into images of the body.
+
+Patients lie on a couch and a 'receiving device' (a small magnet) is placed near the body part being examined. The couch slides into the scanner ? a tunnel surrounded by a giant circular magnet ? so that pictures of the body can be taken.
+
+THE RISKS: Dr Burling says that UK doctors believe there are no known harmful effects in clinical practice.
+
+But new European laws state that by 2008 staff operating the scan must limit their exposure to electromagnetic fields. This is based on theoretical concerns that very high exposure can cause twitching muscles, sickness and dizziness.
+
+ULTRASOUND
+
+USE: Examining soft tissues in organs and developing foetuses. Can pick up around 70 per cent of serious pre-natal abnormalities, such as spina bifida.
+
+HOW IT WORKS: Ultrasound uses high-frequency sound waves to form a picture of internal organs or of an unborn baby. A lubricating gel is applied and then a probe attached to the machine is moved across the area being examined.
+
+Each time a sound beam hits a different part of the body, the pattern of the sound is picked up the probe, analysed by computer and revealed on a screen.
+
+As sound changes frequency when it encounters a moving object, such as blood flowing in blood vessels, ultrasound can show movement. No radiation is produced.
+
+THE RISKS: Ultrasound scans for pregnant women might affect the brains of their unborn babies.
+
+Scientists examined almost 7,000 men whose mothers had ultrasound in the 1970s.
+
+They found that scanning may have caused those who, genetically, should be right-handed to be left-handed after suffering tears to the left side of the brain as a result of the scan.
+
+But Dr Ellis Downes, a consultant obstetrician and gynaecologist based at Chase Farm Hospital in North London and founder of GynaeCheck (www.gynaecheck.co.uk), says there is no concrete evidence to suggest ultrasound is unsafe.
+
+Pregnant women are routinely scanned at 12 weeks and 20 weeks.
+
+NUCLEAR MEDICINE SCAN
+
+USE: Detecting tumours. Can also assess blood flow to heart muscles, helping doctors decide the best course of cardiac surgery. Latest form is the PET (Positron Emission Tomography) scan.
+
+HOW IT WORKS: A radioactive chemical is injected into the body.
+
+This gathers where cells are most active, a sign of cancerous growths. Gamma rays emitted by the chemical are detected by a gamma camera, converted into an electrical signal and sent to a computer which builds up a picture on screen.
+
+THE RISKS: Doses of radiation are equivalent to CT scans: around 5mSv. Occasionally, patients are allergic to the injected chemical.
+
+BONE MASS (DEXA) SCAN
+
+USE: Diagnosing osteoporosis by measuring bone density.
+
+HOW IT WORKS: DEXA stands for dual emission X-ray absorp-tiometry. It sends X-rays through the bone being tested. The amount of X-rays that comes through the bone is measured by a detector.
+
+This information is sent to a computer which displays the bone's density as an image, and calculates the average density of the bone.
+
+THE RISKS: DEXA scans produce 0.1mSv per scan.
+
+ We are no longer accepting comments on this article.
+
+Published by Associated Newspapers Ltd
+
+Part of the Daily Mail, The Mail on Sunday  and  Metro Media Group
+
