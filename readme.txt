@@ -1,6 +1,3 @@
-README - Computation Methods Homework 3
-
-Priyanka Pathak - Spring 2011
 
 Instructions:
 
