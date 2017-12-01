@@ -1,3 +1,6 @@
+Description:
+
+This classifier takes a set of articles about cancer from the mass media - divided into training and test sets. Some talk about ways to prevent cancer, and others talk about causes of cancer. This classifier uses the Naive Bayes Bernoulli algorithm to learn to identify which article is about which topic, "prevent" or "cause". 
 
 Instructions:
 
